@@ -2,4 +2,4 @@
 Generate token webpage for getting token
 
 ## Backend
-[Backend](https://github.com/ghofaralhasyim/smart-farm-backend)
+[gghofaralhasyim/smart-farm-backend](https://github.com/ghofaralhasyim/smart-farm-backend)
